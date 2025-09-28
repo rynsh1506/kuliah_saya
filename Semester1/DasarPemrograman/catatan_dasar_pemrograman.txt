@@ -1,0 +1,23 @@
+
+Laporan Project: => {
+  1. Halaman Judul
+  2. Kata Pengantar
+  3. Daftar Isi
+  4. Bab1 => {
+    a. Pendahuluan
+    b. Tujuan Pembuatan Laporan
+    c. Ruang Lingkup
+  }
+  5. Bab2 => {
+    a. Landasan Teori
+    b. Definisi Python
+    c. Definisi VScode
+    d. Definisi flowcart
+    f. Definisi Program
+  }
+  6. Bab3 => {
+    a. Pembahasan
+    b. Alur Flowcart
+    c. penutup
+  }
+}  
